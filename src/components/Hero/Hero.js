@@ -16,8 +16,12 @@ const Hero = (props) => (
           Hi! <br />
           Welcome To my Website
         </SectionTitle>
-        <SectionText></SectionText>
-        <Button onClick={props.handleClick}>Download CV</Button>
+        <SectionText>
+          I am master's Student at JC Bose University (YMCA) <br />
+        </SectionText>
+        <a href="/images/1.png" download>
+          <Button onClick={props.handleClick}>Download CV</Button>
+        </a>
       </LeftSection>
     </Section>
   </>
