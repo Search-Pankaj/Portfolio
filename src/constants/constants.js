@@ -23,7 +23,7 @@ export const projects = [
     title: "KONECT",
     description:
       "Developed Video-Chat application similar to zoom and Google meet.Allow User to Connect to their friend and Video Chat without Registration ",
-    image: "/images/3.png",
+    image: "/images/3.jpg",
     tags: ["React", "WebRTC", "Node.js", "Socket.io"],
     source: "https://github.com/Search-Pankaj/konect",
     visit: "https://konect.netlify.app/",
