@@ -32,7 +32,7 @@ export const projects = [
   {
     title: "Portfolio ",
     description: "This is my portfolio ",
-    image: "/images/3.jpg",
+    image: "/images/4.jpg",
     tags: ["React", "Material ui", "Next.js"],
     source: "https://github.com/Search-Pankaj/Portfolio",
     visit: "https://searchpankaj.netlify.app/",
