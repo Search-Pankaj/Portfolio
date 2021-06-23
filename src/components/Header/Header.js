@@ -26,7 +26,9 @@ const Header = () => (
           }}
         >
           <DiCssdeck size="3rem" />{" "}
-          <span style={{ fontSize: "2rem" }}>Pankaj Bhardwaj</span>
+          <Link herf="https://searchpankaj.netlify.app/">
+            <span style={{ fontSize: "2rem" }}>Pankaj Bhardwaj</span>{" "}
+          </Link>
         </a>
       </Link>
     </Div1>
@@ -51,10 +53,16 @@ const Header = () => (
       <SocialIcons href="https://github.com/Search-Pankaj" target="_blank">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://github.com/Search-Pankaj" target="_blank">
+      <SocialIcons
+        href="https://www.linkedin.com/in/search-pankaj/"
+        target="_blank"
+      >
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://github.com/Search-Pankaj" target="_blank">
+      <SocialIcons
+        href="https://www.interviewbit.com/profile/pankaj-kumar_436_491"
+        target="_blank"
+      >
         <DiCodeBadge size="3rem" />
       </SocialIcons>
     </Div3>
