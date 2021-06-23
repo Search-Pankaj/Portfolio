@@ -19,8 +19,8 @@ const Hero = (props) => (
         <SectionText>
           I am master's Student at JC Bose University (YMCA) <br />
         </SectionText>
-        <a href="/images/1.png" download>
-          <Button onClick={props.handleClick}>Download CV</Button>
+        <a href="/images/res.pdf" download>
+          <Button onClick={props.handleClick}>Download Resume</Button>
         </a>
       </LeftSection>
     </Section>
