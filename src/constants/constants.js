@@ -34,5 +34,5 @@ export const projects = [
 export const TimeLineData = [
   { year: 2016, text: "completed class 12th" },
   { year: 2019, text: "completed Bachelor of Computer Application" },
-  { year: 2012, text: "Currently Doing Master of Computer Application" },
+  { year: 2022, text: "Currently Doing Master of Computer Application" },
 ];
