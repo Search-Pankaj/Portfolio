@@ -66,7 +66,12 @@ const Timeline = () => {
   return (
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
-      <SectionText></SectionText>
+      <SectionText>
+    "
+     I am Master's student at YMCA faridabad , other than technical role Such
+        as Software engineer or Web developer, I am very much intrested in
+        Managerial Role Such as Product Management or Associate Product
+        Management . If you have any opportunity feel free to contact me .."</SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
           {TimeLineData.map((item, index) => (
