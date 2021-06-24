@@ -26,9 +26,9 @@ const Header = () => (
           }}
         >
           <DiCssdeck size="3rem" />{" "}
-          <Link herf="https://searchpankaj.netlify.app/">
+          
             <span style={{ fontSize: "2rem" }}>Pankaj Bhardwaj</span>{" "}
-          </Link>
+          
         </a>
       </Link>
     </Div1>
